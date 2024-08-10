@@ -1,0 +1,75 @@
+
+/* ============================== Content Main Style ============================== */
+.courses {
+  border-right: 2px solid #009688;
+  padding-right: 3rem;
+}
+
+.courses-header__panel {
+  display: block;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.courses-header__title {
+  font-size: 2rem;
+  font-weight: bold;
+}
+.courses-header__list {
+  display: flex;
+  border-bottom: 2px solid #009688;
+}
+.courses-header__item {
+  margin: 1rem 0 1rem 3.5rem;
+}
+.courses-header__link__panel {
+  font-size: 1.5rem;
+}
+.courses-header__link-active {
+  color: #009688;
+  font-weight: bold;
+}
+.main__box {
+  display: flex;
+  margin: 2rem 0;
+  border: 2px solid #009688;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+.main__box-right {
+  width: 30%;
+}
+.main__box-img {
+  height: 100%;
+}
+.main__box-left {
+  padding-right: 2rem;
+}
+.main__box-title {
+  display: block;
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-top: 1rem;
+}
+.main__box-bottom {
+  display: flex;
+  margin-top: 0.5rem;
+}
+.main__box-all {
+  margin-left: 3rem;
+}
+.main__box-all-text {
+  font-weight: bold;
+  color: #009688;
+}
+
+.main__box-completed {
+  margin-left: 3rem;
+}
+.main__box-completed-text {
+  font-weight: bold;
+  color: #009688;
+}
+
+/* ============================== Content Main Style ============================== */
+

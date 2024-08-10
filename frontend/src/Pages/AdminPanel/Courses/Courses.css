@@ -1,0 +1,12 @@
+.input-title{
+    font-size: 18px;
+    font-family: "lalezar";
+}
+.radios{
+    display: flex;
+    gap: 2rem;
+
+}
+input[type="radio"]{
+    margin-right: 5px;
+}
